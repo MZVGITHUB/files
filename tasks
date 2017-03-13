@@ -1,10 +1,14 @@
-7 -OOP concepts
-  -Familiarize web project structure
-  -Familiarize Apache Tomcat  
-8 Familiarize
-  -GIT
-  -PMD
-  -Find bug
-  -Checkstyle
-  -Sonar
-9 
+*   -OOP concepts
+    -Familiarize web project structure
+    -Familiarize Apache Tomcat  
+*   Familiarize
+    -GIT
+    -PMD
+    -Find bug
+    -Checkstyle
+    -Sonar
+*   Look java related technologies in this link
+    http://citrusdev.com/coding-guidelines/#eclipse-text-editor
+*   Familiarize
+    -Rest Service
+ 
